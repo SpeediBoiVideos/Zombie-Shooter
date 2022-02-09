@@ -4,3 +4,5 @@
 <p>Use W, S, A, D to move</p>
 <p>Use Space Key to Shoot Zommbies</p>
 <img src='https://www.linkpicture.com/q/Screenshot-40_9.png' type='image'></a>
+
+Coded by <a href="https://www.realspeediboi.xyz">SpeediBoi</a> | Images by MOO ICT.
